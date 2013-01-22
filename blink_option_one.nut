@@ -8,6 +8,7 @@
  * Squirrel 3.0 Reference Manual
  * http://squirrel-lang.org/doc/squirrel3.html
  *
+ * Ref From https://github.com/lachtan/ElectricImp
  */
 
 function info()
